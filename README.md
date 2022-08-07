@@ -37,6 +37,8 @@ An LSB2 Steganography Decoder which extracts MP3 Audio from ***Specific*** PNG I
 1. Run `The PNG Musician.py` using the IDE of your choice or via CMD using the `python "The PNG Musician.py"` command
 1. Witness the magic (well, not really :P)
 
+You can create your own PNG files with [**The MP3 Photographer**](https://github.com/SagarDevAchar/TheMP3Photographer). Place them in the `SRC\` folder to play it in **The PNG Musician**
+
 ## Requirements
 
 - **Operating System:** Windows
@@ -48,3 +50,7 @@ You can install the requirements by running the `install_requirements.bat`. You 
 ## Acknowledgements
 
 ASCII Art by: [TextKool](https://textkool.com/en)
+
+## Disclaimer
+
+I do not own any rights to the image or music in the `SRC\` directory. All rights are reserved by the respective artists and record labels
