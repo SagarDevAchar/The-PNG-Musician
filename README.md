@@ -56,4 +56,4 @@ I do not own any rights to the image or music in this repository. All rights are
 - ASCII Art by: [TextKool](https://textkool.com/en)
 - Quickstart: [Secrets Hidden in Images (Steganography) - Computerphile](https://youtu.be/TWEXCYQKyDc)
   
-[![TPM TMP Card](https://user-images.githubusercontent.com/51400137/183296028-ec078cdd-0f1d-4c92-b4ce-af0fe0266afc.png)](https://github.com/SagarDevAchar/TheMP3Musician)
+[![TPM TMP Card](https://user-images.githubusercontent.com/51400137/183296028-ec078cdd-0f1d-4c92-b4ce-af0fe0266afc.png)](https://github.com/SagarDevAchar/TheMP3Photographer)
