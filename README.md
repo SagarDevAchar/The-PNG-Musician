@@ -47,4 +47,4 @@ You can install the requirements by running the `install_requirements.bat`. You 
 
 ## Acknowledgements
 
-*ASCII Art by: [TextKool](https://textkool.com/en)*
+ASCII Art by: [TextKool](https://textkool.com/en)
