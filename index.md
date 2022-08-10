@@ -9,7 +9,7 @@
 
 Part 3 of the **Steganography Made Fun!** Toolkit. Click on the heading above to download the latest release
 
-## About the project
+## About the Project
 
 The toolkit has three parts divided into three repositories:
 
