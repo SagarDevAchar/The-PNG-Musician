@@ -1,2 +1,5 @@
 theme: jekyll-theme-slate
 show_downloads: true
+github:
+  zip_url: https://github.com/SagarDevAchar/ThePNGMusician/releases/download/release/The.PNG.Musician.v2022.07.19.zip
+  tar_url: https://github.com/SagarDevAchar/ThePNGMusician/archive/refs/tags/release.tar.gz
