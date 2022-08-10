@@ -23,7 +23,7 @@ The toolkit has three parts divided into three repositories:
 - `bin\` : Contains the `mpg123` binary for Audio Playback
 - `SRC\` : Contains the Steganographically Encoded PNG Files
 - `LICENSE` : GNU GPL v3.0 License for [The PNG Musician](https://github.com/SagarDevAchar/ThePNGMusician)
-- `README.md` : Release Information
+- `README.txt` : Release Information
 - `The PNG Musician.exe` : Executable for Windows Devices (built using PyInstaller)
 
 ## Repository Structure
