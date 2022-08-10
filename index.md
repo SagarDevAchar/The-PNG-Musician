@@ -1,6 +1,7 @@
 [![Active Version](https://img.shields.io/badge/version-v2022.07.19-blue)](https://github.com/SagarDevAchar/ThePNGMusician/releases/download/release/The.PNG.Musician.v2022.07.19.zip)
 [![GitHub issues](https://img.shields.io/github/issues/SagarDevAchar/ThePNGMusician)](https://github.com/SagarDevAchar/ThePNGMusician/issues)
 [![GitHub license](https://img.shields.io/github/license/SagarDevAchar/ThePNGMusician)](https://github.com/SagarDevAchar/ThePNGMusician/blob/main/LICENSE)
+[![SHA256 Checksum](https://img.shields.io/badge/sha256-8cc3193b34585c80078575e17eb903fa2cd38a3c5eb995d048e4fc402265ae8d-red)](https://emn178.github.io/online-tools/sha256_checksum.html)
 
 ![TPM TMP Logo 3](https://user-images.githubusercontent.com/51400137/183988683-56ce5524-818a-44fc-97c6-ae1fb09dd658.png)
 
