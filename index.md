@@ -6,9 +6,14 @@
 ![TPM TMP Logo 3](https://user-images.githubusercontent.com/51400137/183988683-56ce5524-818a-44fc-97c6-ae1fb09dd658.png)
 
 
-# [The PNG Musician](https://github.com/SagarDevAchar/ThePNGMusician/releases/download/release/The.PNG.Musician.v2022.07.19.zip)
+# The PNG Musician
 
-Part 3 of the **Steganography Made Fun!** Toolkit. Click on the heading above to download the latest release
+An LSB2 Steganography Decoder which extracts and plays MP3 Audio from PNG Images
+
+Part 3 of the **Steganography Made Fun!** Toolkit
+
+- [Latest Release / Executables](https://github.com/SagarDevAchar/ThePNGMusician/releases/download/release/The.PNG.Musician.v2022.07.19.zip)
+- [Source Code](https://github.com/SagarDevAchar/ThePNGMusician/archive/refs/tags/release.zip)
 
 ## About the Project
 
